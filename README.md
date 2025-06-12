@@ -21,7 +21,7 @@
 💻 &nbsp;Full Stack Developer in training | Passionate about clean code, minimalist design, and fluid user experiences.\
 🎨 &nbsp;I enjoy creating intuitive Front-end interfaces, developing solid Back-end systems and designing user-centered solutions (UI/UX).\
 🌱 &nbsp;Currently learning: **Artificial Intelligence** and **Systems Design**.\
-📫 &nbsp;You can contact me at: **brayhangamarra15@gmail.com**.\
+📫 &nbsp;You can contact me at: **brayhangamarra15@gmail.com** 
 
 <img alt="Programando" src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/coding.gif" align="right" width="300"/>
 
