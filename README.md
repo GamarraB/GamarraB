@@ -16,7 +16,7 @@
 </p>
 
 
-## 🎎 &nbsp;Sobre Mí
+## 🎎 &nbsp;about me
 
 💻 &nbsp;Full Stack Developer in training | Passionate about clean code, minimalist design, and fluid user experiences.\
 🎨 &nbsp;I enjoy creating intuitive Front-end interfaces, developing solid Back-end systems and designing user-centered solutions (UI/UX).\
@@ -70,13 +70,16 @@ Tools:
 </table>
 
 
-## 🌸 &nbsp;Conéctate Conmigo
+## 🌸 &nbsp;contact me
 
 <p align="center">
-<a href="https://tuweb.com"><img src="https://img.shields.io/badge/-Mi%20Sitio%20Web-FF6B6B?style=flat&logo=google-chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/brayhan-gamarra-233618205"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brayhan-gamarra-233618205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:brayhangamarra15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
