@@ -11,9 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=2000&color=53F7F0&width=435&lines=I+design%2C+develop+and+learn+every+day;Front-end+with+a+passion+for+AI;Full+Stack+Developer+%7C+UI%2FUX+%7C+AI"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
 
 
 ## 🎎 &nbsp;about me
