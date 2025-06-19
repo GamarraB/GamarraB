@@ -61,7 +61,7 @@ Tools:
 
 </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl4ZGVub3d3Z2J5dWV2aTFldnNvM24wNzV5dTQ5MWM3cmMyM3dociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+      <img src="https://i.gifer.com/yy3.gif" width="auto" />
     </td>
   </tr>
 </table>
